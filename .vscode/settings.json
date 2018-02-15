@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/home/yiosh/.virtualenvs/my_django_environment/bin/python3.5",
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint_django"
+  ]
+}
